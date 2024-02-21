@@ -4,7 +4,6 @@ This will help you for the IR purpose.
 
 ```
 python3 ip-grab.py /var/log/system.log
-
 ```
 
 
